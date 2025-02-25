@@ -33,7 +33,7 @@ This is a Wardrobe Management System built using Vue3 for the frontend and Larav
    composer install
    ```
 
-3. Copy the example environment file and generate the application key:
+3. Copy the environment file and generate the application key:
 
    ```sh
    cp .env.example .env
